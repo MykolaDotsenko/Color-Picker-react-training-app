@@ -1,7 +1,8 @@
 {
   "name": "chromalab",
-  "private": true,
   "version": "1.0.0",
+  "private": true,
+  "description": "An accessible color-system studio for palette tokens, WCAG contrast, previews, and CSS export.",
   "type": "module",
   "engines": {
     "node": ">=22.22.0"
