@@ -1,12 +1,5 @@
-import React from 'react';
-import ColorPickerApp from './components/ColorPickerApp';
+import ColorPickerApp from "./components/ColorPickerApp.jsx";
 
-const App = () => {
-  return (
-    <div>
-      <ColorPickerApp />
-    </div>
-  );
-};
-
-export default App;
+export default function App() {
+  return <ColorPickerApp />;
+}
