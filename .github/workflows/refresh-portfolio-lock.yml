@@ -1,5 +1,7 @@
 name: Refresh portfolio lockfile
 
+# One-shot maintenance workflow.
+
 on:
   push:
     branches: [main]
